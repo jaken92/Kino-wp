@@ -11,4 +11,4 @@ During the project we learned alot on the fly as it was our first project in WP.
 ## Contributors
 Desigers: Gabrielle, Tony, Mauricio, Cesar
 
-Utvecklare: [Emma](https://github.com/hedlundemma, [Lucas](https://github.com/jaken92/Cellmon95), [Magnus](https://github.com/MagnusVV),[Petter](https://github.com/jaken92)
+Utvecklare: [Emma](https://github.com/hedlundemma), [Lucas](https://github.com/jaken92/Cellmon95), [Magnus](https://github.com/MagnusVV), [Petter](https://github.com/jaken92)
