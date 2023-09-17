@@ -1,6 +1,6 @@
 # Kino Koszyk
 
-School project utilizing wordpress. We where tasked to make a demo for a webpage for photo/film studio Kino Koszyk, using their content to show our take on it. 
+School project utilizing wordpress. We were tasked to make a demo for a webpage for photo/film studio Kino Koszyk, using their content to show our take on it. 
 
 ## About
 We were put in to teams of four programmers and four designers to create a website together. During the project we got to familiarize ourselves with wordpress concepts such as creating our own theme, the templeta hierarchy, managing content in the wp interface and utilizing Advanced custom fields. We also set up our enviroments in Local. 
