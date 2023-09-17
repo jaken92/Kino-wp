@@ -14,4 +14,4 @@ Desigers: Gabrielle, Tony, Mauricio, Cesar
 Developers: [Emma](https://github.com/hedlundemma), [Lucas](https://github.com/jaken92/Cellmon95), [Magnus](https://github.com/MagnusVV), [Petter](https://github.com/jaken92)
 
 ## Website
-[https://emma-hedlund.se/Kinokoszyk]
+https://emma-hedlund.se/Kinokoszyk
