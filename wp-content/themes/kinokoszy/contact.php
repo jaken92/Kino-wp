@@ -7,9 +7,7 @@
     </div>
     <div class="title-container">
         <h1>CONTACT</h1>
-
     </div>
-
 </section>
 <section class="contact-heading-section">
     <h2>HAVE A QUESTION? </h2>
@@ -18,9 +16,7 @@
     <?php else : ?>
         <h2>CONTACT ME!</h2>
     <?php endif ?>
-
 </section>
-
 <?php the_content() ?>
 <?php if (is_page('kino/contact')) : ?>
     <section class="images-section">
@@ -50,7 +46,6 @@
         </div>
     <?php endif ?>
     </section>
-
     <?php
     wp_footer();
     get_footer(); ?>

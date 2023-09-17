@@ -5,7 +5,6 @@
 <head>
     <?php wp_head(); ?>
 </head>
-
 <main id="front-page-main">
     <div id="front-page-kino-section">
         <h2>KINO KOSZYK</h2>
@@ -17,7 +16,5 @@
         <h2>JOANNA HELANDER</h2>
     </div>
 </main>
-
 <div id='wall'></div>
-
 <?php wp_footer(); ?>

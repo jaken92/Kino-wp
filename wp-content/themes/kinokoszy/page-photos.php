@@ -3,9 +3,6 @@
 get_header();
 
 ?>
-
-
-
 <section class="hero-section">
     <div class="arrow-container">
         <img src="<?php echo get_template_directory_uri(); ?>/assets/images/Group 6.png" alt="">
@@ -16,7 +13,6 @@ get_header();
         </h1>
     </div>
 </section>
-
 <div id="photo-overlay" class="hide">
     <div id="photo-overlay-img">
         <img class="" src="" alt="img">
@@ -32,16 +28,13 @@ get_header();
         <p>//</p>
         <a class="photo-overlay-nav-next">NEXT PHOTO &gt&gt</a>
     </div>
-
     <div class="photo-overlay-nav mobile">
         <a class="photo-overlay-nav-previous">PREVIOUS</a>
         <p>//</p>
         <a class="photo-overlay-nav-next">NEXT</a>
     </div>
 </div>
-
 <?php
-
 while (have_posts()) :
     the_post();
     the_content();

@@ -12,11 +12,8 @@
         <h1>
             HELANDER
         </h1>
-
     </div>
-
 </section>
-
 <main class="home-main">
     <p>
         We are Kino, an independent film company with our lense focused on social injustice and inspiring people. We
@@ -24,47 +21,35 @@
 
         Founded in 1987. Based in Göteborg, Sweden.
     </p>
-
     </section>
-
     <section class="home-content-section home-content-section-photography">
         <a href="photos">
             <h2>PHOTOGRAPHY</h2>
         </a>
     </section>
-
     <section class="home-content-section home-content-section-books">
-
         <a href="books">
             <h2>BOOKS</h2><a>
-
     </section>
-
-
-
     <section id="home-news-section">
         <div class="latest-news-section">
             <h2>KEEP UP WITH <br>MY LATEST NEWS</h2>
         </div>
-
         <div>
             <p>Find out news and read more about us on facebook</p>
             <div id="home-news-grid">
                 <div class="home-news-facebook">
                     <a href="https://sv-se.facebook.com/">
-                        <img src="<?php echo get_template_directory_uri(); ?>/assets/images/facebook.png"
-                            alt="facebook">
+                        <img src="<?php echo get_template_directory_uri(); ?>/assets/images/facebook.png" alt="facebook">
                     </a>
                 </div>
                 <a class="home-news-arrow">
-                    <img class="home-news-arrow-img"
-                        src="<?php echo get_template_directory_uri(); ?>/assets/images/Pil.png" alt="facebook">
+                    <img class="home-news-arrow-img" src="<?php echo get_template_directory_uri(); ?>/assets/images/Pil.png" alt="facebook">
                 </a>
             </div>
         </div>
     </section>
 </main>
-
 <?php
 wp_footer();
 get_footer(); ?>
